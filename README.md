@@ -4,10 +4,21 @@ Este repositorio contiene una colección de notas y recursos útiles para realiz
 
 ## Contenido
 
-- [Reconnaissance](assets/Reconnaissance.md)  
-  Una guía completa sobre herramientas y técnicas para la fase de reconocimiento, como el uso de `amass`, `gobuster`, `ffuf` y más.
+- [Reconnaissance](assets/Reconnaissance/Tools.md)  
 
-- [Google Dorking](assets/Google_dorking.md)  
+En esta sección encontrarás herramientas y ejemplos prácticos para la fase de reconocimiento en bug bounty.
+
+## Índice
+- [Amass](#amass)
+- [Subfinder](#subfinder)
+- [FFUF](#ffuf)
+- [Gobuster](#gobuster)
+- [Nmap](#nmap)
+- [Waybackurls](#waybackurls)
+- [Aquatone](#aquatone)
+- [HTTPX](#httpx)
+
+- [Google Dorking](assets/Reconnaissance/Google_dorking.md)  
   Ejemplos de búsqueda avanzada utilizando operadores de Google para encontrar información sensible o interesante en dominios específicos.
 
 ## ¿Cómo usar esta guía?

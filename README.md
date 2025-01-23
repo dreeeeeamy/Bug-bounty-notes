@@ -4,10 +4,10 @@ Este repositorio contiene una colección de notas y recursos útiles para realiz
 
 ## Contenido
 
-- [Reconnaissance](Reconnaissance.md)  
+- [Reconnaissance](assets/Reconnaissance.md)  
   Una guía completa sobre herramientas y técnicas para la fase de reconocimiento, como el uso de `amass`, `gobuster`, `ffuf` y más.
 
-- [Google Dorking](Google_dorking.md)  
+- [Google Dorking](assets/Google_dorking.md)  
   Ejemplos de búsqueda avanzada utilizando operadores de Google para encontrar información sensible o interesante en dominios específicos.
 
 ## ¿Cómo usar esta guía?

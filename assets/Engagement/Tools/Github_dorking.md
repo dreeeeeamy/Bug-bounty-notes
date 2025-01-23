@@ -1,4 +1,4 @@
-# Github dorking
+### Github dorking
 
 ### Buscar información sensible en GitHub
 En esta sección encontrarás términos clave y ejemplos para buscar y explotar configuraciones sensibles, credenciales y archivos críticos durante un engagement de bug bounty. Se organizan por categorías para facilitar su referencia.

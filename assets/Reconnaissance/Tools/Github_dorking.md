@@ -1,6 +1,17 @@
-# Exploitation
+# Github dorking
 
+### Buscar información sensible en GitHub
 En esta sección encontrarás términos clave y ejemplos para buscar y explotar configuraciones sensibles, credenciales y archivos críticos durante un engagement de bug bounty. Se organizan por categorías para facilitar su referencia.
+
+GitHub puede ser una fuente valiosa para encontrar credenciales y configuraciones expuestas. A continuación, se explica cómo utilizar el panel de búsqueda de GitHub para encontrar datos sensibles de un objetivo.
+
+---
+
+**Ejemplo de uso:**
+```bash
+org:target.com language:python password
+```
+Este filtro buscará archivos .py en la organización target.com que contengan la palabra clave password.
 
 ## Índice
 - [Credenciales y configuraciones generales](#credenciales-y-configuraciones-generales)

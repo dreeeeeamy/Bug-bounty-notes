@@ -1,5 +1,18 @@
 ## Reconnaissance
 
+En esta sección encontrarás herramientas y ejemplos prácticos para la fase de reconocimiento en bug bounty.
+
+## Índice
+- [Amass](#amass)
+- [Subfinder](#subfinder)
+- [FFUF](#ffuf)
+- [Gobuster](#gobuster)
+- [Nmap](#nmap)
+- [Waybackurls](#waybackurls)
+- [Aquatone](#aquatone)
+- [HTTPX](#httpx)
+
+
 ### Amass
 **Descripción:** Amass es una herramienta para realizar descubrimiento de subdominios y recopilar información sobre infraestructura externa mediante OSINT y consultas activas.
 

@@ -19,3 +19,4 @@ Este repositorio contiene una colección de notas y recursos útiles para realiz
 
 ---
 ¡Feliz hacking! 🎯
+https://fbi.cults3d.com/uploaders/29949427/illustration-file/5650dc35-d952-4e46-b1a6-b272e17a9701/floppy-yellow.png

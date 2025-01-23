@@ -3,7 +3,7 @@
 En esta sección encontrarás herramientas y ejemplos prácticos para la fase de reconocimiento en bug bounty.
 
 ## Índice
-- [Amass](#amass)
+- [Amass](/assets/Reconnaissance/Amass.md)
 - [Subfinder](#subfinder)
 - [FFUF](#ffuf)
 - [Gobuster](#gobuster)

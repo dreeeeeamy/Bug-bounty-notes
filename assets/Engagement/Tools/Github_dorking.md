@@ -1,9 +1,10 @@
 ### Github dorking
 
-### Buscar información sensible en GitHub
+**Descripción:** GitHub puede ser una fuente valiosa para encontrar credenciales y configuraciones expuestas.
+
 En esta sección encontrarás términos clave y ejemplos para buscar y explotar configuraciones sensibles, credenciales y archivos críticos durante un engagement de bug bounty. Se organizan por categorías para facilitar su referencia.
 
-GitHub puede ser una fuente valiosa para encontrar credenciales y configuraciones expuestas. A continuación, se explica cómo utilizar el panel de búsqueda de GitHub para encontrar datos sensibles de un objetivo.
+A continuación, se explica cómo utilizar el panel de búsqueda de GitHub para encontrar datos sensibles de un objetivo.
 
 ---
 

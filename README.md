@@ -4,7 +4,7 @@ Este repositorio contiene una colección de notas y recursos útiles para realiz
 
 ## Contenido
 
-- [Reconnaissance](assets/Reconnaissance/README.md)
+- [Reconnaissance](assets/Reconnaissance/)
 - [Exploitation](assets/Exploitation/)  
 
 ## ¿Cómo usar esta guía?

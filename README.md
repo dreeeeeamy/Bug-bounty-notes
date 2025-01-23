@@ -18,5 +18,4 @@ Este repositorio contiene una colección de notas y recursos útiles para realiz
 ¡Se aceptan sugerencias y mejoras! Abre un pull request o crea un issue si quieres colaborar.
 
 ---
-¡Feliz hacking! 🎯
-https://fbi.cults3d.com/uploaders/29949427/illustration-file/5650dc35-d952-4e46-b1a6-b272e17a9701/floppy-yellow.png
+![floppy-yellow](https://github.com/user-attachments/assets/6ab0e16f-ba1f-44e4-8c06-c312ee77dd59)

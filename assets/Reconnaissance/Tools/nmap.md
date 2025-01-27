@@ -15,3 +15,4 @@ nmap -sV -sC target.com
 # Escaneo completo silencioso
 nmap -sS -p- --open --min-rate 5000 -vvv -n -Pn target.com
 ```
+Para más ver todos los ejemplos, usa ```nmap -h```.

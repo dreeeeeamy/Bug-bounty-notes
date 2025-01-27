@@ -6,3 +6,4 @@
 # Extraer URLs de un dominio
 echo "target.com" | waybackurls
 ```
+También tienes la opción de usar la [versión web](https://web.archive.org/).

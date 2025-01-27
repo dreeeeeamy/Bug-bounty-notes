@@ -17,3 +17,5 @@ katana -u https://target.com -o resultados.txt
 # Escaneo con concurrencia personalizada (10 hilos)
 katana -u https://target.com -c 10 
 ```
+
+Para más ver todos los ejemplos, usa ```katana -h```.

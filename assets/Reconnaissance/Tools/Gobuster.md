@@ -12,3 +12,5 @@ gobuster dns -d target.com -w /path/to/wordlist.txt
 # Enumeración de archivos específicos
 gobuster dir -u http://target.com -w /path/to/wordlist.txt -x php,html
 ```
+
+Para más ver todos los ejemplos, usa ```gobuster -h```.

@@ -9,3 +9,5 @@ subfinder -d target.com
 # Escaneo y salida en un archivo
 subfinder -d target.com -o subdominios.txt
 ```
+
+Para más ver todos los ejemplos, usa ```subfinder -h```.

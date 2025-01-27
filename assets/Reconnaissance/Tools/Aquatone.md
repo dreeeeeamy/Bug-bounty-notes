@@ -6,3 +6,4 @@
 # Tomar capturas de pantalla
 cat subdominios.txt | aquatone
 ```
+Para más ver todos los ejemplos, usa ```aquatone -h```.

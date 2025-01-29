@@ -1,6 +1,6 @@
 # Path Traversal
 
-## Descripción 
+## Descripción
 
 La vulnerabilidad de **Path Traversal** permite a un atacante acceder a archivos y directorios fuera del área permitida por la aplicación, utilizando entradas manipuladas. Esto ocurre cuando la aplicación no valida correctamente los inputs proporcionados por el usuario que se utilizan en operaciones del sistema de archivos, como leer o escribir archivos.
 

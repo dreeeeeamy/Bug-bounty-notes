@@ -14,7 +14,7 @@ org:target.com language:python password
 ```
 Este filtro buscará archivos .py en la organización target.com que contengan la palabra clave password.
 
-## Índice
+## Contenido
 - [Credenciales y configuraciones generales](#credenciales-y-configuraciones-generales)
 - [Claves y tokens](#claves-y-tokens)
 - [Archivos sensibles](#archivos-sensibles)

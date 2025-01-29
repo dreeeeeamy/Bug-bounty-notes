@@ -7,7 +7,7 @@ Este repositorio incluye payloads organizados por categorías para facilitar su 
 - **Inyección SQL (SQLi)**: Payloads para pruebas de inyección SQL.
 - **Cross-Site Scripting (XSS)**: Códigos para pruebas de XSS reflejado, almacenado y DOM-based.
 - **Cross-Site Request Forgery (CSRF)**: Payloads para generar exploits de CSRF.
-- [**Inyección de comandos (RCE)**](assets/Payloads/Command_injection.md): Pruebas para inyección de comandos en sistemas.
+- [**Inyección de comandos (RCE)**](/assets/Payloads/Command_injection.md): Pruebas para inyección de comandos en sistemas.
 - **SSRF (Server-Side Request Forgery)**: Payloads para pruebas de SSRF.
 - **XXE (XML External Entity)**: Payloads para explotación de entidades externas en XML.
 - **LFI/RFI (Local/Remote File Inclusion)**: Payloads para inclusión de archivos locales y remotos.

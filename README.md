@@ -7,7 +7,7 @@ Este repositorio contiene una colección de notas y recursos útiles para realiz
 - [Reconnaissance](assets/Reconnaissance/README.md)
 - [Exploitation](assets/Exploitation/README.md)  
 
-## Conjunto de Payloads para diferente tipos de vulnerabilidades
+## Conjunto de Payloads para diferente tipo de vulnerabilidades
 - [Payloads](assets/Payloads)
   
 ## ¿Cómo usar esta guía?

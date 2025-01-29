@@ -10,13 +10,14 @@ Este repositorio contiene una colección de notas y recursos útiles para realiz
 ## Conjunto de Payloads para diferente tipo de vulnerabilidades
 - [Payloads](assets/Payloads)
   
-## ¿Cómo usar esta guía?
+## ⚠️ ¿Cómo usar esta guía?
 
 1. Navega por las secciones desde este archivo o directamente a través de los enlaces proporcionados.
 2. Sigue los ejemplos prácticos y adapta los comandos a tu objetivo.
 3. Siéntete libre de contribuir añadiendo nuevas herramientas o mejorando los ejemplos.
+4. Este repositorio tiene fines educativos y de investigación en ciberseguridad. No me hago responsable del uso indebido de estos recursos. 
 
-## Contribuciones
+## 🚀 Contribuciones
 
 ¡Se aceptan sugerencias y mejoras! Abre un pull request o crea un issue si quieres colaborar.
 

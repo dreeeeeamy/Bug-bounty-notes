@@ -2,12 +2,12 @@
 
 Este repositorio contiene una colección de notas y recursos útiles para realizar bug bounty. La guía está organizada por secciones, abarcando desde la fase de reconocimiento hasta técnicas avanzadas. Cada archivo incluye descripciones, herramientas y ejemplos prácticos.
 
-## Contenido
+## 📌 Contenido
 - [Engagement](assets/Engagement/README.md)
 - [Reconnaissance](assets/Reconnaissance/README.md)
 - [Exploitation](assets/Exploitation/README.md)  
 
-## Conjunto de Payloads para diferente tipo de vulnerabilidades
+## 📚 Conjunto de Payloads para diferente tipo de vulnerabilidades
 - [Payloads](assets/Payloads)
   
 ## ⚠️ ¿Cómo usar esta guía?

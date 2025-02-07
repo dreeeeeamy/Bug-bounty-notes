@@ -12,7 +12,7 @@ Este repositorio incluye payloads organizados por categorías para facilitar su 
 - **XXE (XML External Entity)**: Payloads para explotación de entidades externas en XML.
 - **LFI/RFI (Local/Remote File Inclusion)**: Payloads para inclusión de archivos locales y remotos.
 - [**Open redirect**](/assets/Payloads/Open_redirect.md): Payloads para exploits de redirecciones abiertas.
-- [**Path traversal**](/assets/Payloads/Path_travesal.md): Técnicas y payloads para explotar el cruce de directorios.
+- [**Path traversal**](/assets/Payloads/Path_traversal.md): Técnicas y payloads para explotar el cruce de directorios.
 
 ## 📚 Uso
 Cada directorio contiene un archivo README con explicaciones y ejemplos sobre cómo utilizar los payloads de manera efectiva. Se recomienda probarlos en entornos controlados y con autorización.

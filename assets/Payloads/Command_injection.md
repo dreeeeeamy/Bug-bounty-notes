@@ -34,7 +34,7 @@ Este falla es especialmente crítica cuando la aplicación ejecuta comandos del 
 ### Básicos
 ```bash
 ; id
-| whoami
+& whoami &
 && cat /etc/passwd
 ```
 

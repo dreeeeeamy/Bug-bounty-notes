@@ -1,20 +1,44 @@
-### Amass
-**Descripción:** Amass es una herramienta para realizar descubrimiento de subdominios y recopilar información sobre infraestructura externa mediante OSINT y consultas activas.
+# Amass
 
-**Ejemplos:**
+## Descripción
+
+Es una herramienta de código abierto utilizada para la enumeración de subdominios y el reconocimiento pasivo/activo en pruebas de seguridad. Es ampliamente usada para descubrir subdominios ocultos objetivo.
+
+---
+## Comandos esenciales
+
+### Enumeración pasiva (OSINT)
 ```bash
-#Escaneo básico
-amass enum -d target.com
-
-# Escaneo pasivo de subdominios
-amass enum -passive -d target.com
-
-# Escaneo activo y pasivo de subdominios
-amass enum -active -d target.com
-
-# Guardar resultados en un archivo
-amass enum -d target.com -o resultados.txt
+amass enum -passive -d example.com
 ```
-Para más ver todos los ejemplos, usa ```amass -h```.
+*Este modo usa solo fuentes OSINT sin interactuar directamente con los servidores del objetivo.*
 
-Accede aquí para ver un [fichero de configuración](https://github.com/owasp-amass/amass/blob/master/examples/config.yaml).
+### Enumeración activa
+```bash
+amass enum -active -d example.com
+```
+*Realiza consultas DNS activas y fuerza bruta para encontrar más subdominios.*
+
+### Combinación de pasivo y activo
+```bash
+amass enum -brute -d example.com
+```
+*Habilita la fuerza bruta de subdominios junto con la enumeración estándar.*
+
+### Uso de múltiples fuentes
+```bash
+amass enum -d example.com -src
+```
+*Muestra de dónde provienen los resultados obtenidos.*
+
+### Exploración en profundidad
+```bash
+amass enum -d example.com -active -brute -o resultados.txt
+```
+*Guarda los subdominios descubiertos en un archivo.*
+
+## Consejos para optimizar resultados
+- Usa `-timeout 10` para evitar bloqueos por tiempo de espera.
+- Combina con `-config amass_config.ini` para personalizar fuentes y APIs.
+- Usa `-src` para identificar las fuentes de los datos obtenidos.
+- Ejecuta `amass viz -d3` para generar una visualización gráfica de los subdominios.

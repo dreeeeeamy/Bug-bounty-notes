@@ -14,7 +14,7 @@ En esta sección encontrarás herramientas y ejemplos prácticos para la fase de
 - [katana](/assets/Reconnaissance/Tools/Katana.md)
 
 ## 📚 Uso
-Cada herramienta contiene explicaciones y ejemplos sobre cómo utilizarlas de manera efectiva. Se recomienda probarlos en entornos controlados y con autorización.
+Cada herramienta contiene explicaciones y ejemplos sobre cómo utilizarlas de manera efectiva. Se recomienda probarlas en entornos controlados y con autorización.
 
 ## ⚠️ Disclaimer
 Este repositorio tiene fines educativos y de investigación en ciberseguridad. No me hago responsable del uso indebido de estos recursos. 

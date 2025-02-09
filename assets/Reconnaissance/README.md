@@ -2,6 +2,7 @@ En esta sección encontrarás herramientas y ejemplos prácticos para la fase de
 
 ## Contenido
 - [Amass](/assets/Reconnaissance/Tools/Amass.md)
+- [Masscan](/assets/Reconnaissance/Tools/Masscan.md)
 - [Subfinder](/assets/Reconnaissance/Tools/Subfinder.md)
 - [FFUF](/assets/Reconnaissance/Tools/FFUF.md)
 - [Gobuster](/assets/Reconnaissance/Tools/Gobuster.md)

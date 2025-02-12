@@ -1,21 +1,47 @@
-### Katana
-**Descripción:** Katana es una herramienta rápida y liviana para la búsqueda de rutas (web crawling). Está diseñada para realizar descubrimientos en aplicaciones web, recopilando URLs, endpoints y otros recursos útiles para análisis y explotación.
-**Ejemplos:**
+# Katana
+
+## Descripción
+
+Es un rastreador web (crawler) de alto rendimiento desarrollado por **ProjectDiscovery**. Se utiliza para **enumerar URLs, descubrir endpoints ocultos y extraer enlaces dinámicos** en aplicaciones web.
+
+Katana está diseñado para ser **rápido, flexible y escalable**, permitiendo su integración con otras herramientas de reconocimiento y explotación, como **Nuclei, HTTPX y Subfinder**.
+
+---
+
+## Uso básico
+
+### 1. Escanear una URL
 ```bash
-# Escaneo básico de una URL
-katana -u https://target.com  
-
-# Escaneo con extracción de JavaScript y endpoints
-katana -u https://target.com -js  
-
-# Escaneo incluyendo subdominios descubiertos
-katana -u https://target.com -subs  
-
-# Guardar resultados en un archivo
-katana -u https://target.com -o resultados.txt  
-
-# Escaneo con concurrencia personalizada (10 hilos)
-katana -u https://target.com -c 10 
+katana -u https://example.com
 ```
 
-Para más ver todos los ejemplos, usa ```katana -h```.
+### 2. Escanear múltiples dominios desde un archivo
+```bash
+katana -list domains.txt
+```
+
+### 3. Extraer URLs desde archivos JavaScript
+```bash
+katana -u https://example.com -js
+```
+
+### 4. Guardar resultados en un archivo
+```bash
+katana -u https://example.com -o results.txt
+```
+
+### 5. Integración con HTTPX para validación de URLs
+```bash
+katana -u https://example.com | httpx -status-code
+```
+
+### 6. Rastrear en profundidad con múltiples niveles
+```bash
+katana -u https://example.com -depth 3
+```
+
+## Consejos para optimizar resultados
+- **Usar con `httpx` para validar URLs activas**.
+- **Ajustar la profundidad (`-depth 3`)** para explorar más enlaces.
+- **Filtrar URLs relevantes con `grep` o `jq`**.
+- **Combinar con `nuclei` para escaneo automatizado de vulnerabilidades**.

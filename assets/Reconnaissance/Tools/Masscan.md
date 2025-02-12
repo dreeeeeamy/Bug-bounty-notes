@@ -5,7 +5,7 @@
 Es una herramienta de escaneo de puertos extremadamente rápida, similar a **nmap**, pero optimizada para realizar escaneos a gran escala en redes extensas. Su motor asíncrono le permite escanear el rango completo de direcciones IPv4 en cuestión de minutos, lo que la hace ideal para **pentesting**, **reconocimiento** y **auditorías de seguridad**.
 
 ---
-## Comandos esenciales
+## Uso básico
 
 ### Escaneo básico de un objetivo
 ```bash

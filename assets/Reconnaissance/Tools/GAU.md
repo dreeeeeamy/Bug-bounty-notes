@@ -1,4 +1,4 @@
-# Gau
+# GAU
 ## Descripción
 
 (Get All URLs) es una herramienta que permite extraer URLs indexadas de múltiples fuentes, como **Wayback Machine, Common Crawl, URLScan, y AlienVault OTX**. Es útil en **reconocimiento web, pentesting y bug bounty** para descubrir endpoints ocultos, rutas sensibles y parámetros históricos.
